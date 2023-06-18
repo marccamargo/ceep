@@ -1,0 +1,2 @@
+# ceep
+ O Ceep é um projeto que foi desenvolvido durante aas aulas da Alura/Oracle Next Education para ensinar manipulação do html através do DOM. Basicamente é uma lista de compras. Você adiciona um item que deseja comprar e ,ao clicar no botão, o item é adicionado com um botão de concluir e um botão de deletar. Ao clicar no botão concluir, o item é riscado. AO clicar no botão deletar,o item é deletado da lista de compras.
